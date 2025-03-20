@@ -9,7 +9,7 @@
 import CalculatorComponent from './main/Calculator'
 
 export default {
-  name:"CalculatorComponent",
+  name:"AppComponent",
   components :{CalculatorComponent}
     
   }
